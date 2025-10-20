@@ -55,3 +55,5 @@ upstream todolist_app {
 ## 4. Reload Nginx:
 ```bash
 docker exec todolist_nginx nginx -s reload
+````
+https://roadmap.sh/projects/blue-green-deployment

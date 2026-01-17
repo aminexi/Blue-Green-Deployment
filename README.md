@@ -1,5 +1,6 @@
 # Simple Calcul Java EE App — Blue-Green Deployment
 
+
 ## Overview
 
 This project demonstrates a **Blue-Green deployment strategy** for a Java EE web application (`Simple Calcul`) using **Docker, Docker Compose, and Nginx**.  
